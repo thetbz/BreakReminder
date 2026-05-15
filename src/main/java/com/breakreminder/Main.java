@@ -15,7 +15,7 @@ public class Main {
         System.out.println("===========================================");
         System.out.println("Work cycles: 45 minutes");
         System.out.println("Break cycles: 2 minutes");
-        System.out.println("Click 'Start' button in the GUI to begin");
+        System.out.println("Click 'start' button in the GUI to begin");
         System.out.println("===========================================\n");
     }
 }
