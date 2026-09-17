@@ -104,4 +104,5 @@ Libre de usar y modificar.
 
 ## Autor
 
+Esteban Arana
 Creado con Java Swing y Threads para la gestión de ciclos automáticos.
